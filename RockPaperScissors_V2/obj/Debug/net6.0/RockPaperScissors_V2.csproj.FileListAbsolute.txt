@@ -1,0 +1,14 @@
+C:\Users\jhrva\Desktop\Proyectos\C-Sharp_Projects\RockPaperScissors_V2\RockPaperScissors_V2\bin\Debug\net6.0\RockPaperScissors_V2.exe
+C:\Users\jhrva\Desktop\Proyectos\C-Sharp_Projects\RockPaperScissors_V2\RockPaperScissors_V2\bin\Debug\net6.0\RockPaperScissors_V2.deps.json
+C:\Users\jhrva\Desktop\Proyectos\C-Sharp_Projects\RockPaperScissors_V2\RockPaperScissors_V2\bin\Debug\net6.0\RockPaperScissors_V2.runtimeconfig.json
+C:\Users\jhrva\Desktop\Proyectos\C-Sharp_Projects\RockPaperScissors_V2\RockPaperScissors_V2\bin\Debug\net6.0\RockPaperScissors_V2.dll
+C:\Users\jhrva\Desktop\Proyectos\C-Sharp_Projects\RockPaperScissors_V2\RockPaperScissors_V2\bin\Debug\net6.0\RockPaperScissors_V2.pdb
+C:\Users\jhrva\Desktop\Proyectos\C-Sharp_Projects\RockPaperScissors_V2\RockPaperScissors_V2\obj\Debug\net6.0\RockPaperScissors_V2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jhrva\Desktop\Proyectos\C-Sharp_Projects\RockPaperScissors_V2\RockPaperScissors_V2\obj\Debug\net6.0\RockPaperScissors_V2.AssemblyInfoInputs.cache
+C:\Users\jhrva\Desktop\Proyectos\C-Sharp_Projects\RockPaperScissors_V2\RockPaperScissors_V2\obj\Debug\net6.0\RockPaperScissors_V2.AssemblyInfo.cs
+C:\Users\jhrva\Desktop\Proyectos\C-Sharp_Projects\RockPaperScissors_V2\RockPaperScissors_V2\obj\Debug\net6.0\RockPaperScissors_V2.csproj.CoreCompileInputs.cache
+C:\Users\jhrva\Desktop\Proyectos\C-Sharp_Projects\RockPaperScissors_V2\RockPaperScissors_V2\obj\Debug\net6.0\RockPaperScissors_V2.dll
+C:\Users\jhrva\Desktop\Proyectos\C-Sharp_Projects\RockPaperScissors_V2\RockPaperScissors_V2\obj\Debug\net6.0\refint\RockPaperScissors_V2.dll
+C:\Users\jhrva\Desktop\Proyectos\C-Sharp_Projects\RockPaperScissors_V2\RockPaperScissors_V2\obj\Debug\net6.0\RockPaperScissors_V2.pdb
+C:\Users\jhrva\Desktop\Proyectos\C-Sharp_Projects\RockPaperScissors_V2\RockPaperScissors_V2\obj\Debug\net6.0\RockPaperScissors_V2.genruntimeconfig.cache
+C:\Users\jhrva\Desktop\Proyectos\C-Sharp_Projects\RockPaperScissors_V2\RockPaperScissors_V2\obj\Debug\net6.0\ref\RockPaperScissors_V2.dll
